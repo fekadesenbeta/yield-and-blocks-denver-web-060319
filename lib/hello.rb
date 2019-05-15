@@ -8,4 +8,4 @@ def hello_t(array)
 end
 
 #  your method here!
-lib/hello.rb
+
